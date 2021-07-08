@@ -103,3 +103,9 @@ section{
     text-align: center;
     border-bottom: solid 40px black;
 }
+.divide{
+    width: 40%;
+    margin-left: 15%;
+    margin-right: 10%;
+    border-radius: 15px;
+}
