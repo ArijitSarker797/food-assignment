@@ -61,12 +61,45 @@ section{
     background-repeat: no-repeat;
     margin: 0;
     
+    
+    
 }
 .align-centre{
+    color: olivedrab;
     padding-left:550px;
     font-size: 40px;
 }
 .centre{
     font-size: 25px;
     padding-left: 25%;
+    padding-right: 25%;
+}
+.third{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 15px;
+    border-left: 7px solid rgb(196, 40, 40);
+    
+    
+}
+.third img{
+    width: 70%;
+    padding-left: 15%;
+    
+}
+.split{
+    width: 80%;
+    padding-right: 5%;
+    padding-left: 12%;
+}
+.food{
+    color: rgb(216, 52, 52);
+}
+.foot{
+    color: blanchedalmond;
+    background-color: black;
+    text-align: center;
+    border-bottom: solid 40px black;
 }
